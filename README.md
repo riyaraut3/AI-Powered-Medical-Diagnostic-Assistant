@@ -3,6 +3,8 @@
 A Streamlit web application that allows users to upload medical images (X-rays, CT scans, MRIs) and receive AI-generated diagnostic insights.
 
 ---
+![App Screenshot](screenshot.png)
+
 
 ## 🚀 Features
 
